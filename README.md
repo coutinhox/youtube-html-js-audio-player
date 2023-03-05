@@ -20,3 +20,8 @@
 
 - [x] Iniciar a customização visual do player
 - [x] Adicionar funcionalidade para os botões (Play/Pause, Volume, Mute e Seekbar)
+
+### Vídeo Youtube
+
+Criando Player de Áudio com Javascript | Mayk Brito
+https://www.youtube.com/watch?v=vqrjFnq3-uo
